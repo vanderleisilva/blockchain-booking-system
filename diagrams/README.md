@@ -67,9 +67,3 @@ These diagrams use [Mermaid](https://mermaid.js.org/) syntax and can be viewed i
 - VS Code with Mermaid extension
 - Any Markdown preview that supports Mermaid
 - [Mermaid Live Editor](https://mermaid.live/)
-
-## Document Version
-
-**Version:** 2.0 (Privacy-Preserving Architecture)  
-**Last Updated:** October 24, 2025  
-**Status:** Updated with GDPR Compliance & Off-Chain Storage
